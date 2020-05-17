@@ -3,7 +3,7 @@ set(CMAKE_CXX_STANDARD 17)
 include(add_msvc_precompiled_header)
 include(configure_msvc_runtime)
 
-set(PROJECT_NAME "QtThreadMessageDispatcher")
+set(PROJECT_NAME "qtthreadmessagedispatcher")
 
 project(${PROJECT_NAME})
 
